@@ -1,0 +1,44 @@
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.exe
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.pdb
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.csprojResolveAssemblyReference.cache
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormDatSan.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.Properties.Resources.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.csproj.GenerateResource.Cache
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.exe
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.pdb
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormGD.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormBangGiaSan.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormBangGiaDV.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormDSKHang.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormThongKe.resources
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.exe.config
+G:\HT\DHMo\DoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.RP.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.exe.config
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.exe
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.pdb
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.exe
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.pdb
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.csprojResolveAssemblyReference.cache
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormBangGiaDV.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormBangGiaSan.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormDSKHang.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormGD.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormDatSan.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormThongKe.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.Properties.Resources.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.RP.resources
+C:\Users\Tuan Nguyen\Desktop\fileBCDoAnNganh\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.csproj.GenerateResource.Cache
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.exe.config
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.exe
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.pdb
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.csprojResolveAssemblyReference.cache
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormBangGiaDV.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormBangGiaSan.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormDSKHang.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormGD.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormDatSan.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.FormThongKe.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.Properties.Resources.resources
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\obj\x86\Debug\PMQLSanCauLong.csproj.GenerateResource.Cache
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.exe
+D:\DoAnNganh_DangAnhTuan_NguyenThanhTuan\PMQLSanCauLong\PMQLSanCauLong\bin\Debug\PMQLSanCauLong.pdb

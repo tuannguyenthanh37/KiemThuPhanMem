@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMQLSanCauLong", "PMQLSanCauLong\PMQLSanCauLong.csproj", "{E2F80474-979A-4671-A431-5E65BE7D5C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F80474-979A-4671-A431-5E65BE7D5C3D}.Debug|x86.ActiveCfg = Debug|x86
+		{E2F80474-979A-4671-A431-5E65BE7D5C3D}.Debug|x86.Build.0 = Debug|x86
+		{E2F80474-979A-4671-A431-5E65BE7D5C3D}.Release|x86.ActiveCfg = Release|x86
+		{E2F80474-979A-4671-A431-5E65BE7D5C3D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
